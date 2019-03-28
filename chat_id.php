@@ -1,13 +1,14 @@
 <?php
 include_once "functions.inc.php";
 
-if (!stristr($abs_url,'telegram.org')) {
+if (!file_exists('db/api.txt')) {
 ?>
 <?php
 
 if ($_POST['api_token'] != '') {
 	write_file('db/api.txt', $_POST['api_token']);
 	access_url("https://api.telegram.org/bot".$_POST['api_token']."/setWebhook?url=".urlencode('https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']));
+	sleep(3);
 
 ?>
 Seting berhasil. Silahkan kunjungi bot telegram dengan akun telegram anda
@@ -207,3 +208,8 @@ if (stristr($pesan,'belum ada data respon')) {
 }
 
 ?>
+<pre>
+Hapus file dalam folder db untuk install ulang:
+setting.txt
+api.txt
+</pre>
