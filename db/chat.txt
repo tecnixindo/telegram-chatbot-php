@@ -1,0 +1,104 @@
+﻿
+{-}107{,}help{,}{,}{,}{,}{,}Jangan minta tolong ke saya. Saya kan bot 😁{,}{,}
+
+{-}106{,}I{,}think{,}good{,}{,}{,}That`s amazing 😃{,}{,}
+{-}105{,}mau{,}tanya{,}{,}{,}{,}Ya silahkan. Yang penting pertanyaannnya jelas. Soalnya kalau di singkat2 saya suka bingung.... 😞{,}{,}
+{-}104{,}gak{,}koq{,}{,}{,}{,}Okelah kalo begitu....{,}{,}
+{-}103{,}gak{,}kok{,}{,}{,}{,}Okelah kalo begitu....{,}{,}
+{-}102{,}apa{,}kabar{,}{,}{,}{,}Kabar baik 😊%0ATumben nanya2 kabar 😄{,}{,}
+{-}101{,}matur{,}uwun{,}{,}{,}{,}sami-sami 😀{,}{,}
+{-}100{,}buy{,}on{,}dip{,}{,}{,}Maksudnya lakukan order buy saat market sedang turun 😎{,}{,}
+{-}99{,}tes{,}{,}{,}{,}{,}Ente mo ngapain tas tes tas tes{,}{,}
+{-}98{,}tinggal{,}dulu{,}{,}{,}{,}Yo`i. cus.... 👋{,}{,}
+{-}97{,}mantap{,}{,}{,}{,}{,}Terima kasih ☺{,}{,}
+{-}96{,}sayang{,}{,}{,}{,}{,}Iya sayang. mengapa manggil{,}{,}
+{-}95{,}hai{,}{,}{,}{,}{,}Hai juga. Ada apa?{,}{,}
+{-}94{,}hi{,}{,}{,}{,}{,}Hai juga. APa kabar?{,}{,}
+{-}93{,}bre{,}{,}{,}{,}{,}bre itu apaan? 🤔🙄{,}{,}
+{-}92{,}http{,}{,}{,}{,}{,}Link apa ini bre....? 👀{,}{,}
+{-}91{,}webhook{,}{,}{,}{,}{,}Gampang bre...%0A%0APakai ini saja https://telegram.tetuku.com/ ntar bot ente langsung jalan 😀{,}{,}
+{-}89{,}kamu{,}cantik{,}{,}{,}{,}Ah....gombal.... 🥰{,}{,}
+{-}88{,}kamu{,}ganteng{,}{,}{,}{,}Masih mabok bre...? 🙃{,}{,}
+{-}87{,}kapok{,}{,}{,}{,}{,}Syukurin...... \ud83d\ude02%0A%0A%0ACanda bre.... peace✌{,}{,}
+{-}86{,}gak{,}ada{,}{,}{,}{,}Sebentar....coba cek kembali 👌{,}{,}
+{-}85{,}terima{,}kasih{,}{,}{,}{,}Terima kasih kembali \ud83d\ude04🙏{,}{,}
+{-}84{,}terimakasih{,}{,}{,}{,}{,}Terima kasih kembali \ud83d\ude04🙏{,}{,}
+{-}83{,}tq{,}{,}{,}{,}{,}Terima kasih kembali \ud83d\ude04 🙏{,}{,}
+{-}82{,}trims{,}{,}{,}{,}{,}Terima kasih kembali \ud83d\ude04🙏{,}{,}
+{-}81{,}makasih{,}{,}{,}{,}{,}sama-sama \ud83d\ude01🤗{,}{,}
+{-}80{,}makasih{,}{,}{,}{,}{,}sama-sama\ud83d\ude01🤗{,}{,}
+{-}79{,}mandi{,}yuk{,}{,}{,}{,}mandi sama kamu? 🤔🤔 ga mau ah.. 🏃‍♂🏃‍♂{,}{,}
+{-}78{,}bengkak{,}kaki{,}kecelakaan{,}{,}{,}Istirahat dengan posisi kaki lebih tinggi dibanding posisi jantung. %0AKompres dengan air dingin jika usia luka dibawah 48 jam. %0AKompres luka dengan air hangat jika usia luka di atas 48 jam. Jika luka bernanah jangan di kompres{,}{,}
+{-}77{,}oprek{,}macet{,}{,}{,}{,}Makanya kalau sudah lancar jangan di utak-atik{,}{,}
+{-}76{,}anjing{,}{,}{,}{,}{,}🐶!! 👊👊👊👊{,}
+{-}75{,}beneran{,}{,}{,}{,}{,}🦍💨{,}
+{-}74{,}penting{,}yakin{,}{,}{,}{,}Yakin dulu... Urusan hasil belakangan \ud83d\ude05{,}
+{-}73{,}ada{,}gak{,}cinta{,}{,}{,}Hmmm... Mau tahu? Coba aja buka %0Ahttp://www.google.com/rasa-cintaku-untuk-kamu{,}
+{-}72{,}gak{,}usah{,}{,}{,}{,}😐%0A😭{,}
+{-}71{,}ada{,}blm{,}{,}{,}{,}Belum... Mau cariin po....?{,}
+{-}70{,}jangan{,}lupa{,}{,}{,}{,}Iya.... Jangan lupa kalau kita cuma temenan 🤪{,}
+{-}69{,}boleh{,}jujur{,}{,}{,}{,}Aku juga pengen jujur sama kamu. Akhir2 ini gak bisa berpikir jernih. Kepikiran kamu terus 😘{,}
+{-}68{,}aku{,}capek{,}{,}{,}{,}Aku juga capek. Sudah berkali-kali ngasih kode ke dia. Sekarang malah liat statusnya \{,}
+{-}67{,}bukan{,}rindu{,}{,}{,}{,}Aku rindu masa2 temenan. Gak ada konflik. Mending balik kayak dulu ya 😇{,}
+{-}66{,}aku{,}rindu{,}{,}{,}{,}Rindu kenapa? Kan kita sudah pacaran. Tiap hari juga ketemu 😘{,}
+{-}65{,}yuk{,}{,}{,}{,}{,}Ayuuuk 🤗{,}
+{-}64{,}main{,}tebak{,}{,}{,}{,}Main tebak2an apa?{,}
+{-}63{,}pintar{,}{,}{,}{,}{,}Emang dari orok sudah jenius \ud83d\ude02%0AGedhenya rajin pula \ud83d\ude06{,}
+{-}62{,}sejuk{,}{,}{,}{,}{,}Aku juga merasa sejuk saat kau disampingku 😘{,}
+{-}61{,}kok{,}sepi{,}{,}{,}{,}Ramaikan 😁{,}
+{-}60{,}pulsa{,}gratis{,}{,}{,}{,}hoax nie jangan percaya 👊{,}
+{-}59{,}anu{,}{,}{,}{,}{,}hmm....🤔 anu apa ya 😂😂{,}
+{-}58{,}kok{,}bisa{,}{,}{,}{,}Emang dari orok sudah jenius 😂%0AGedhenya rajin pula 😆{,}
+{-}57{,}assalamu'alaikum{,}{,}{,}{,}{,}Wa`alaikum salam wr. wb. 🙏{,}
+{-}56{,}assalamualaikum{,}{,}{,}{,}{,}Wa`alaikum salam wr. wb 🙏{,}
+{-}55{,}bot{,}apa{,}ini{,}{,}{,}Bantuin kamu ngebual dan ngegombal bre 🤣{,}
+{-}54{,}kamu{,}jelek{,}{,}{,}{,}Kamu tuh yang jelek 😤{,}
+{-}53{,}minat{,}japri{,}{,}{,}{,}👀%0ATurunin lagi dong harganya 🙏{,}
+{-}52{,}please{,}feel{,}free{,}{,}{,}Explain me more...{,}
+{-}51{,}what{,}say{,}{,}{,}{,}Sorry... I cannot speak English fluently{,}
+{-}50{,}how{,}you{,}{,}{,}{,}I`m fine. Thanks{,}
+{-}49{,}good{,}night{,}{,}{,}{,}Good night{,}
+{-}48{,}good{,}afternoon{,}{,}{,}{,}Good afternoon{,}
+{-}47{,}good{,}day{,}{,}{,}{,}Good day!{,}
+{-}46{,}good{,}morning{,}{,}{,}{,}Good morning{,}
+{-}45{,}maaf{,}{,}{,}{,}{,}Oh... Ya udah. Tq{,}
+{-}44{,}bisa{,}kami{,}bantu{,}{,}{,}Mmm... Anu.... Bentar....{,}
+{-}42{,}selamat{,}malam{,}{,}{,}{,}Selamat malam...{,}
+{-}41{,}selamat{,}sore{,}{,}{,}{,}Selamat sore...{,}
+{-}40{,}selamat{,}siang{,}{,}{,}{,}Selamat siang...{,}
+{-}39{,}selamat{,}pagi{,}{,}{,}{,}Selamat pagi...{,}
+{-}38{,}kirim{,}hari{,}ini{,}{,}{,}Maaf paket dikirim H+1 dari order diterima{,}
+{-}37{,}kirim{,}sekarang{,}{,}{,}{,}Maaf paket dikirim H+1 dari order diterima{,}
+{-}36{,}tautan{,}link{,}{,}{,}{,}Antony Abot`s School https://t.me/joinchat/AIYXx1RoqBcOzoK4gCpsCg{,}
+{-}35{,}basi{,}{,}{,}{,}{,}Serius nih bre... Masih kelihatan enak gitu{,}
+{-}34{,}tolong{,}{,}{,}{,}{,}Kenapa emangnya?{,}
+{-}33{,}harga{,}pas{,}{,}{,}{,}Turunin dikit dong biar jadi{,}
+{-}32{,}jual{,}{,}{,}{,}{,}Ada diskon gak?{,}
+{-}31{,}berarti{,}kita{,}{,}{,}{,}Lah..... Koq gitu.....{,}
+{-}30{,}ibarat{,}apa{,}{,}{,}{,}menghitung pasir di pantai{,}
+{-}29{,}ngapain{,}{,}{,}{,}{,}Lagi melamun mikirin ente{,}
+{-}28{,}boleh{,}grup{,}{,}{,}{,}Silahkan masukin ke grup kalau suka. Jangan lupa ajarin saya respon-respon baru ya. Makasih sebelumnya :){,}
+{-}27{,}hey{,}{,}{,}{,}{,}hey tayo.. hey tayoo..{,}
+{-}26{,}makan yuk{,}{,}{,}{,}{,}hmm... makan apa ya?{,}
+{-}24{,}boleh{,}tanya{,}{,}{,}{,}Mau apa aja boleh. Yang penting gak bikin rusuh :D{,}
+{-}23{,}sepi{,}{,}{,}{,}{,}Bakar2 pasar sono. Biar greget.... Wkwkwkwk{,}
+{-}21{,}cari{,}pengalaman{,}{,}{,}{,}Sudah bre... Lamar kerja ditolak gara2 gak punya pengalaman. Terus nyari dimana coba..... Pusing....{,}
+{-}19{,}ngantuk{,}{,}{,}{,}{,}ambil bantal trus bobok sanaa..{,}
+{-}17{,}kerja{,}mana{,}{,}{,}{,}Nganggur bre.... Kirim lamaran gak pernah ada yang nyantol. Sampai bosan :P{,}
+{-}16{,}mainan{,}apa{,}{,}{,}{,}Mainan baru ini bre... Hahaha....  Ajarin dong{,}
+{-}15{,}ini{,}ya{,}{,}{,}{,}Iya betul bre :D{,}
+{-}14{,}ini{,}ya{,}{,}{,}{,}Iya betul bre :D{,}
+{-}13{,}ping{,}{,}{,}{,}{,}Pada mainan apa sih....?{,}
+{-}12{,}pong{,}{,}{,}{,}{,}Pada mainan apa sih?{,}
+{-}11{,}ping{,}{,}{,}{,}{,}Pada mainan apa sih....?{,}
+{-}10{,}invite{,}link{,}{,}{,}{,}Antony Abot`s School https://t.me/joinchat/AIYXx1RoqBcOzoK4gCpsCg{,}
+{-}9{,}alamat{,}mana{,}{,}{,}{,}Tahu perempatan dekat pasar kan. Nah... Dari pasar ke kanan dikit ntar ada gang pertama belok saja. Terus mentok ketemu belokan. Deket situ rumahku{,}
+{-}8{,}hai {,}{,}{,}{,}{,}Hai juga. Salam kenal :){,}
+{-}7{,}halo{,}{,}{,}{,}{,}Halo juga. Ada kabar baru?{,}
+{-}6{,}datang{,}baru{,}{,}{,}{,}Terima kasih boleh gabung di grup ini. Salam kenal :){,}
+{-}5{,}cara{,}ajar{,}bot{,}{,}{,}Set respon dengan kode 
+#kunci_1 #kunci_2 #kunci...*respon 
+Spasi di depan dan/atau belakang kata kunci bisa mempengaruhi ketepatan respon, mohon perhatikan saat mengajari saya sesuatu yang baru ya. Terima kasih sebelumnya:){,}
+{-}4{,}admin{,}grup{,}{,}{,}{,}Sebagai admin grup memiliki kemampuan layaknya admin. Tergantung setingan kekuasaan yang diberikan{,}
+{-}3{,}member {,}biasa {,}{,}{,}{,}Member biasa memiliki kemampuan seperti member-member grup lainnya. Sebatas membalas pesan{,}
+{-}2{,}saya{,}grup{,}{,}{,}{,}Bisa. Silahkan tambahkan saja. Sebagai member biasa atau sebagai admin juga bisa{,}
