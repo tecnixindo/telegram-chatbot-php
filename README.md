@@ -2,11 +2,11 @@
 Telegram ChatBot with php language
 
 <pre>
-https://github.com/tecnixindo/telegram-chatbot-php
-
 Telegram Chat Bot
 =============
-digunakan untuk mensimulasikan percakapan. ChatBot ini bisa dimanfaatkan untuk percakapan biasa, pembelajaran hingga melayani klien. Dengan model pelatihan yang sederhana anda bisa membentuk ChatBot mampu menanggapi percakapan terlihat alami
+digunakan untuk mensimulasikan percakapan. ChatBot ini bisa dimanfaatkan untuk percakapan biasa,
+pembelajaran hingga melayani klien. Dengan model pelatihan yang sederhana anda bisa membentuk
+ChatBot mampu menanggapi percakapan terlihat alami
 
 
 Cara memberi training
@@ -21,7 +21,8 @@ Boleh saya pinjam majalah ini?
 Gw pinjam majalah ini ya bro...!
 Adik saya mau meminjam majalah ini. Boleh kan?
 
-Kata kunci yang terdapat pada semua kalimat diatas adalah pinjam majalah. Pinjam bisa berganti menjadi meminjam, dipinjam, pinjaman, dst. Maka diambil menjadi injam. Jadi :
+Kata kunci yang terdapat pada semua kalimat diatas adalah pinjam majalah. Pinjam bisa berganti
+menjadi meminjam, dipinjam, pinjaman, dst. Maka diambil menjadi injam. Jadi :
 
 Training chatbot
 ---------------------
