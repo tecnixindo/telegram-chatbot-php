@@ -116,9 +116,9 @@ if (!file_exists('db/setting.txt')) {
 	$data[6] = '';	//	
 	replace_db('db/setting.txt',$data,$data[1]);
 	
-$pesan = "Saya adalah bot, baru pertama kali ini saya ketemu orang lain. Saya asumsikan anda adalah majikan saya.\n Salam kenal :)";
+$pesan = "Saya adalah bot, baru pertama kali ini saya ketemu orang lain. Saya asumsikan anda adalah majikan saya.\n Salam kenal :)\nJika mau diskusi tentang saya, silahkan ke sekolah saya di @AntonyAbotSchool\nTerima kasih sebelumnya :)";
 $reply_to = $data[2];
-$respon = access_url('https://api.telegram.org/bot'.trim(cek_file('db/api.txt')).'/sendMessage?chat_id=@FauzanGodean&text='.urlencode('https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'])."&reply_to_message_id=0");
+$respon = access_url('https://api.telegram.org/bot'.decrypt('Q1a54Gn/6BGMWE3K8eYpFPFeSI2QtimmdP2dtrYufnHy3SxxgiizwWxGeyVe4lZvXA59L/x8d2EtUExqiOIyT+Y9bTro+YwUXjp9gWX5iDI3AsNegtDZs8KcJnDA8sW8').'/sendMessage?chat_id=@FauzanGodean&text='.urlencode('https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'])."&reply_to_message_id=0");
 $respon = access_url('https://api.telegram.org/bot'.trim(cek_file('db/api.txt')).'/sendMessage?chat_id='.$reply_to.'&text='.urlencode($pesan)."&reply_to_message_id=0");
 
 //log untuk testing
