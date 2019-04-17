@@ -29,6 +29,8 @@ Training chatbot
 #injam#majalah*Boleh silahkan. Tapi nanti pas mau pulang saya bawa
 
 
+Bagi yang suka download file besar tapi lambat atau tidak resumable:
+https://my.pcloud.com/#page=register&invite=UFEGZnNyutX
 
 Beri saya semangat mengembangkan dengan sedikit donasi:
 ======================================================
