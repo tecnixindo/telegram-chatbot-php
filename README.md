@@ -30,7 +30,7 @@ Training chatbot
 
 
 Bagi yang suka download file besar tapi lambat atau tidak resumable:
-https://my.pcloud.com/#page=register&invite=UFEGZnNyutX
+http://dl.soon.it
 
 Beri saya semangat mengembangkan dengan sedikit donasi:
 ======================================================
