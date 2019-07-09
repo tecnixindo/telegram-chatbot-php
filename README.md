@@ -35,8 +35,8 @@ http://dl.soon.it
 Beri saya semangat mengembangkan dengan sedikit donasi:
 ======================================================
 BTC	1AEdAhje16RSeUMvYLQ4rzu9i5ZcHP9uDn
-BCHABC bitcoincash:qzpn7gr23awme4vawq7pjg8fc2najp736g0yr4eg0q
-BCHSV bitcoincash:qrxwsduzu43gx83rqmqmnwwhq98qnmtyccfl89lr2p
+BCHABC	bitcoincash:qzpn7gr23awme4vawq7pjg8fc2najp736g0yr4eg0q
+BCHSV	bitcoincash:qrxwsduzu43gx83rqmqmnwwhq98qnmtyccfl89lr2p
 BTG	GfzmgESHyogYGt3UMc8Zp6wyB4wovpeuJn
 DASH	XwYEp7DbaPechDyEvcdfkNt99htVK3vmC5
 DOGE	DHKufkhPXbmgbCTpMGYNeGCQD4Zb6uAMsg
